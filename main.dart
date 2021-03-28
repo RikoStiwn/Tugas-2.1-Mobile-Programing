@@ -6,7 +6,7 @@ void main() => runApp(MyListApp());
 class MyListApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final title = 'Horizontal List App';
+    final title = 'Riko Setiawan - 065118320';
     // TODO: implement build
     return MaterialApp(
       title: title,
